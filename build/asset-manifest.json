@@ -1,7 +1,7 @@
 {
   "main.css": "/webpack-demo/build/static/css/main.e75660bc.chunk.css",
-  "main.js": "/webpack-demo/build/static/js/main.c536bdc1.chunk.js",
-  "main.js.map": "/webpack-demo/build/static/js/main.c536bdc1.chunk.js.map",
+  "main.js": "/webpack-demo/build/static/js/main.71a8b4db.chunk.js",
+  "main.js.map": "/webpack-demo/build/static/js/main.71a8b4db.chunk.js.map",
   "static/css/1.7fcd483e.chunk.css": "/webpack-demo/build/static/css/1.7fcd483e.chunk.css",
   "static/js/1.89d59c19.chunk.js": "/webpack-demo/build/static/js/1.89d59c19.chunk.js",
   "static/js/1.89d59c19.chunk.js.map": "/webpack-demo/build/static/js/1.89d59c19.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.7fcd483e.chunk.css.map": "/webpack-demo/build/static/css/1.7fcd483e.chunk.css.map",
   "static/css/main.e75660bc.chunk.css.map": "/webpack-demo/build/static/css/main.e75660bc.chunk.css.map",
   "index.html": "/webpack-demo/build/index.html",
-  "precache-manifest.e05b8a827c2abcfa56c8707df225157e.js": "/webpack-demo/build/precache-manifest.e05b8a827c2abcfa56c8707df225157e.js",
+  "precache-manifest.2faec0b5ded2d9f66213c01fa70c5ba3.js": "/webpack-demo/build/precache-manifest.2faec0b5ded2d9f66213c01fa70c5ba3.js",
   "service-worker.js": "/webpack-demo/build/service-worker.js"
 }
