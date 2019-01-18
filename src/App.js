@@ -21,7 +21,8 @@ class App extends Component {
     let todos = this.state.todoList.map((item,index)=>{
       return ( 
         <li>
-          <TodoItem todo={item} onToggle={this.toggle.bind(this)} />
+          <TodoItem todo={item} onToggle={this.toggle.bind(this)} 
+            onDelete={this.delete.bind(this)}/>
         </li>
       )
     })
@@ -52,6 +53,10 @@ class App extends Component {
   }
   addTodo(){
     console.log('我得添加一个 todo 了')
+  }
+  delete(event, todo){
+    todo.deleted = true
+    this.setState(this.state) 
   }
 }
 
