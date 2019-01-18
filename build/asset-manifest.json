@@ -1,14 +1,13 @@
 {
-  "main.css": "/webpack-demo/build/static/css/main.2e203646.chunk.css",
-  "main.js": "/webpack-demo/build/static/js/main.def42f3e.chunk.js",
-  "main.js.map": "/webpack-demo/build/static/js/main.def42f3e.chunk.js.map",
-  "static/js/1.bea3696e.chunk.js": "/webpack-demo/build/static/js/1.bea3696e.chunk.js",
-  "static/js/1.bea3696e.chunk.js.map": "/webpack-demo/build/static/js/1.bea3696e.chunk.js.map",
+  "main.css": "/webpack-demo/build/static/css/main.e1ee02c4.chunk.css",
+  "main.js": "/webpack-demo/build/static/js/main.7b5b5a3b.chunk.js",
+  "main.js.map": "/webpack-demo/build/static/js/main.7b5b5a3b.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "/webpack-demo/build/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "/webpack-demo/build/static/js/1.4a34e45d.chunk.js.map",
   "runtime~main.js": "/webpack-demo/build/static/js/runtime~main.1068221d.js",
   "runtime~main.js.map": "/webpack-demo/build/static/js/runtime~main.1068221d.js.map",
-  "static/media/logo.svg": "/webpack-demo/build/static/media/logo.5d5d9eef.svg",
-  "static/css/main.2e203646.chunk.css.map": "/webpack-demo/build/static/css/main.2e203646.chunk.css.map",
+  "static/css/main.e1ee02c4.chunk.css.map": "/webpack-demo/build/static/css/main.e1ee02c4.chunk.css.map",
   "index.html": "/webpack-demo/build/index.html",
-  "precache-manifest.64570313443ba4990251fa6144a72399.js": "/webpack-demo/build/precache-manifest.64570313443ba4990251fa6144a72399.js",
+  "precache-manifest.65d3d19b12798689b371baa1b216f9e6.js": "/webpack-demo/build/precache-manifest.65d3d19b12798689b371baa1b216f9e6.js",
   "service-worker.js": "/webpack-demo/build/service-worker.js"
 }
