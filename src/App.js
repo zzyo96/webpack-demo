@@ -53,8 +53,16 @@ class App extends Component {
       todoList: this.state.todoList
     })
   }
-  addTodo(){
-    console.log('我得添加一个 todo 了')
+  addTodo(event){
+    this.state.todoList.push({
+      title: event.target.value,
+      status: null,
+      deleted: false
+    })
+    this.setState({
+      newTodo: '',
+      todoList: this.state.todoList
+    })
   }
   delete(event, todo){
     todo.deleted = true
