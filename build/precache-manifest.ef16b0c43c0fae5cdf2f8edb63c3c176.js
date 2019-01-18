@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b6f86003ea1afa69e645",
-    "url": "/webpack-demo/build/static/css/main.ce4e2bf2.chunk.css"
+    "revision": "548c70076d476abde119",
+    "url": "/webpack-demo/build/static/css/main.e75660bc.chunk.css"
   },
   {
-    "revision": "b6f86003ea1afa69e645",
-    "url": "/webpack-demo/build/static/js/main.b6f86003.chunk.js"
+    "revision": "548c70076d476abde119",
+    "url": "/webpack-demo/build/static/js/main.548c7007.chunk.js"
   },
   {
     "revision": "89d59c19e54f29154a0f",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/webpack-demo/build/static/js/runtime~main.1068221d.js"
   },
   {
-    "revision": "38a09754654c4174933dca906f7c5791",
+    "revision": "520714b7d73feb882ddad4df926f29ab",
     "url": "/webpack-demo/build/index.html"
   }
 ];
